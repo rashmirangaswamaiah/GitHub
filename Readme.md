@@ -13,6 +13,6 @@ This document is for the beginners who would like to use the Github for the firs
 8. Then run these commands
       - git init
       - git add ProjectFolderName
-      - git commit - m "any message"
+      - git commit -m "any message"
       - git remote add https://github.com/githubusername/repositoryname.git
       - git push -u origin master
